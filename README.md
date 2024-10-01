@@ -1,4 +1,6 @@
 # Semaphore 2.0 Agent
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FAleksandarCole%2Fagent.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FAleksandarCole%2Fagent?ref=badge_shield)
+
 
 Base agent responsibilities:
 
@@ -104,3 +106,7 @@ Runs a single job. Useful for debugging or agent development. It takes the path 
 ### `agent version`
 
 Prints out the agent version
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FAleksandarCole%2Fagent.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FAleksandarCole%2Fagent?ref=badge_large)
